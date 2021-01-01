@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **B2B platform with Vue.js and Laravel**
 
-- 🌱 I’m currently learning **Node.js, Vue.js 3 and TypeScript**
+- 🌱 I’m currently learning **Node.js and Vue.js 3**, look into this [fabianmieller/monster-game-frontend](https://github.com/fabianmieller/monster-game-frontend) and [fabianmieller/monster-game-backend](https://github.com/fabianmieller/monster-game-backend)
 
 - 👨‍💻 All of my projects are available at [https://fabianmieller.de/portfolio/](https://fabianmieller.de/portfolio/)
 
